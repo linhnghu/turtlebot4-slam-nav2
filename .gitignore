@@ -1,0 +1,12 @@
+build/
+install/
+log/
+.turtlebot4_debs/
+.turtlebot4_runtime/
+.turtlebot4_compat/
+__pycache__/
+*.py[cod]
+.vscode/
+artifacts/*.pid
+artifacts/*.lock
+artifacts/*.session.json
