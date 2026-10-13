@@ -5,15 +5,6 @@ Bài thực hành TurtleBot 4 Lite trong Gazebo Fortress: kiểm tra sensor,
 bằng AMCL và di chuyển tự động bằng Nav2. Sử dụng world `maze` và simulator,
 controller có sẵn của TurtleBot 4.
 
-## Yêu cầu
-
-- Ubuntu 22.04, ROS 2 Humble Desktop.
-- Gazebo Fortress (Ignition Gazebo 6), TurtleBot 4 Simulator.
-- SLAM Toolbox, Nav2 và RViz2.
-
-Cài ROS 2 theo [hướng dẫn Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
-và Gazebo theo [TurtleBot 4 User Manual](https://turtlebot.github.io/turtlebot4-user-manual/software/turtlebot4_simulator.html).
-
 ## Clone và build
 
 Trên máy mới, sử dụng `~/ros2_ws` làm workspace:
